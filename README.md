@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sayuri Shelley!</h1>
-<h3 align="center">A passionate Software Developer and AI/ML enthusiast from India.</h3>
+<h3 align="center">As a dedicated 4th-year student pursuing a degree in Computer Science and Engineering, I'm passionate about harnessing technology to drive innovation and solve real-world challenges. With a foundation in coding and programming, I thrive on problem-solving and have a keen eye for efficient solutions.
+My journey in the world of technology has not only equipped me with technical prowess but also honed my skills in management and leadership. I believe in the power of collaboration and effective communication to lead teams towards success.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayurii1&label=Profile%20views&color=0e75b6&style=flat" alt="sayurii1" /> </p>
 
-- 🔭 I’m currently working on **RAG-Enhanced Conversational AI using LLMs.**
+- 🔭 I’m currently working on **FLORA-RAG: Enhancing Conversational AI with Retrieval Augmented Generation for Floriculture.**
 
 - 👯 I’m looking to collaborate on **AI/ML Projects and Front-End Development.**
 
