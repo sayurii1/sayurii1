@@ -10,7 +10,7 @@ My journey in the world of technology has not only equipped me with technical pr
 - 📫 How to reach me **sayurishelley@gmail.com**
 
 - 📑 Find my research work on **Flora-RAG: Enhancing Conversational AI with Retrieval Augmented Generation for Floriculture.**!
-- Read here- https://ieeexplore.ieee.org/document/11051979
+  Read here- https://ieeexplore.ieee.org/document/11051979
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
